@@ -1,0 +1,1 @@
+hello from nodejs, i will be read from streams
